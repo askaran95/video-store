@@ -1,0 +1,38 @@
+C:\Users\sunny\source\repos\Video Store\Video Store\bin\Debug\Video Store.exe.config
+C:\Users\sunny\source\repos\Video Store\Video Store\bin\Debug\Video Store.exe
+C:\Users\sunny\source\repos\Video Store\Video Store\bin\Debug\Video Store.pdb
+C:\Users\sunny\source\repos\Video Store\Video Store\obj\Debug\Video Store.csprojAssemblyReference.cache
+C:\Users\sunny\source\repos\Video Store\Video Store\obj\Debug\LoginPage.g.cs
+C:\Users\sunny\source\repos\Video Store\Video Store\obj\Debug\Main.g.cs
+C:\Users\sunny\source\repos\Video Store\Video Store\obj\Debug\RegisterPage.g.cs
+C:\Users\sunny\source\repos\Video Store\Video Store\obj\Debug\App.g.cs
+C:\Users\sunny\source\repos\Video Store\Video Store\obj\Debug\Video Store_MarkupCompile.cache
+C:\Users\sunny\source\repos\Video Store\Video Store\obj\Debug\Video Store_MarkupCompile.lref
+C:\Users\sunny\source\repos\Video Store\Video Store\obj\Debug\LoginPage.baml
+C:\Users\sunny\source\repos\Video Store\Video Store\obj\Debug\Main.baml
+C:\Users\sunny\source\repos\Video Store\Video Store\obj\Debug\RegisterPage.baml
+C:\Users\sunny\source\repos\Video Store\Video Store\obj\Debug\Video Store.g.resources
+C:\Users\sunny\source\repos\Video Store\Video Store\obj\Debug\Video_Store.Properties.Resources.resources
+C:\Users\sunny\source\repos\Video Store\Video Store\obj\Debug\Video Store.csproj.GenerateResource.cache
+C:\Users\sunny\source\repos\Video Store\Video Store\obj\Debug\Video Store.csproj.CoreCompileInputs.cache
+C:\Users\sunny\source\repos\Video Store\Video Store\obj\Debug\Video Store.exe
+C:\Users\sunny\source\repos\Video Store\Video Store\obj\Debug\Video Store.pdb
+C:\Users\sunny\source\repos\innnnsan\Video Store\bin\Debug\Video Store.exe.config
+C:\Users\sunny\source\repos\innnnsan\Video Store\bin\Debug\Video Store.exe
+C:\Users\sunny\source\repos\innnnsan\Video Store\bin\Debug\Video Store.pdb
+C:\Users\sunny\source\repos\innnnsan\Video Store\obj\Debug\Video Store.csprojAssemblyReference.cache
+C:\Users\sunny\source\repos\innnnsan\Video Store\obj\Debug\LoginPage.g.cs
+C:\Users\sunny\source\repos\innnnsan\Video Store\obj\Debug\Main.g.cs
+C:\Users\sunny\source\repos\innnnsan\Video Store\obj\Debug\RegisterPage.g.cs
+C:\Users\sunny\source\repos\innnnsan\Video Store\obj\Debug\App.g.cs
+C:\Users\sunny\source\repos\innnnsan\Video Store\obj\Debug\Video Store_MarkupCompile.cache
+C:\Users\sunny\source\repos\innnnsan\Video Store\obj\Debug\Video Store_MarkupCompile.lref
+C:\Users\sunny\source\repos\innnnsan\Video Store\obj\Debug\LoginPage.baml
+C:\Users\sunny\source\repos\innnnsan\Video Store\obj\Debug\Main.baml
+C:\Users\sunny\source\repos\innnnsan\Video Store\obj\Debug\RegisterPage.baml
+C:\Users\sunny\source\repos\innnnsan\Video Store\obj\Debug\Video Store.g.resources
+C:\Users\sunny\source\repos\innnnsan\Video Store\obj\Debug\Video_Store.Properties.Resources.resources
+C:\Users\sunny\source\repos\innnnsan\Video Store\obj\Debug\Video Store.csproj.GenerateResource.cache
+C:\Users\sunny\source\repos\innnnsan\Video Store\obj\Debug\Video Store.csproj.CoreCompileInputs.cache
+C:\Users\sunny\source\repos\innnnsan\Video Store\obj\Debug\Video Store.exe
+C:\Users\sunny\source\repos\innnnsan\Video Store\obj\Debug\Video Store.pdb

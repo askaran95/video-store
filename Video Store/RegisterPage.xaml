@@ -1,0 +1,22 @@
+﻿<Window x:Class="Video_Store.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Video_Store"
+        mc:Ignorable="d"
+        Title="Window1" Height="457.776" Width="665.566" Background="#FFBFBFBF">
+    <Grid Margin="0,0,2,20">
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+        <Label Content="Register here" HorizontalAlignment="Left" Margin="176,46,0,0" VerticalAlignment="Top" Height="56" Width="277" FontSize="36" FontFamily="Century Gothic"/>
+        <Label Content="Username" HorizontalAlignment="Left" Margin="118,170,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="Rg_user" HorizontalAlignment="Left" Height="23" Margin="264,173,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160"/>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="118,243,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="Rg_pass" HorizontalAlignment="Left" Height="23" Margin="264,246,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="160"/>
+        <Button x:Name="Register" Content="Register Now" HorizontalAlignment="Left" Margin="197,314,0,0" VerticalAlignment="Top" Width="95" Click="Register_Click" Height="25"/>
+        <Button Content="Login" HorizontalAlignment="Left" Margin="341,314,0,0" VerticalAlignment="Top" Width="83" Height="25"/>
+
+    </Grid>
+</Window>
